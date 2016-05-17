@@ -15,6 +15,19 @@
 		7B87062A1C3E9430008F0861 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B8706281C3E9430008F0861 /* LaunchScreen.storyboard */; };
 		7B8706351C3E9430008F0861 /* CrazyDragTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B8706341C3E9430008F0861 /* CrazyDragTests.m */; };
 		7B8706401C3E9430008F0861 /* CrazyDragUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B87063F1C3E9430008F0861 /* CrazyDragUITests.m */; };
+		7BC623011C47EED9008F7BAC /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BC622FF1C47EED9008F7BAC /* AboutViewController.m */; };
+		7BC623021C47EED9008F7BAC /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623001C47EED9008F7BAC /* AboutViewController.xib */; };
+		7BC6230F1C47FE6C008F7BAC /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623061C47FE6C008F7BAC /* Background.png */; };
+		7BC623101C47FE6C008F7BAC /* Button-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623071C47FE6C008F7BAC /* Button-Highlighted.png */; };
+		7BC623111C47FE6C008F7BAC /* Button-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623081C47FE6C008F7BAC /* Button-Normal.png */; };
+		7BC623121C47FE6C008F7BAC /* SliderThumb-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623091C47FE6C008F7BAC /* SliderThumb-Highlighted.png */; };
+		7BC623131C47FE6C008F7BAC /* SliderThumb-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC6230A1C47FE6C008F7BAC /* SliderThumb-Normal.png */; };
+		7BC623141C47FE6C008F7BAC /* SliderTrackLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC6230B1C47FE6C008F7BAC /* SliderTrackLeft.png */; };
+		7BC623151C47FE6C008F7BAC /* SliderTrackRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC6230C1C47FE6C008F7BAC /* SliderTrackRight.png */; };
+		7BC623161C47FE6C008F7BAC /* StartOverButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC6230D1C47FE6C008F7BAC /* StartOverButton.png */; };
+		7BC623171C47FE6C008F7BAC /* StartOverIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC6230E1C47FE6C008F7BAC /* StartOverIcon.png */; };
+		7BC623191C48086B008F7BAC /* CrazyDrag.html in Resources */ = {isa = PBXBuildFile; fileRef = 7BC623181C48086B008F7BAC /* CrazyDrag.html */; };
+		7BF709EB1C4A8721006E8364 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7BF709EA1C4A8721006E8364 /* no.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,20 @@
 		7B87063B1C3E9430008F0861 /* CrazyDragUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CrazyDragUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B87063F1C3E9430008F0861 /* CrazyDragUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CrazyDragUITests.m; sourceTree = "<group>"; };
 		7B8706411C3E9430008F0861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BC622FE1C47EED9008F7BAC /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AboutViewController.h; path = ../AboutViewController.h; sourceTree = "<group>"; };
+		7BC622FF1C47EED9008F7BAC /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AboutViewController.m; path = ../AboutViewController.m; sourceTree = "<group>"; };
+		7BC623001C47EED9008F7BAC /* AboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AboutViewController.xib; path = ../AboutViewController.xib; sourceTree = "<group>"; };
+		7BC623061C47FE6C008F7BAC /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		7BC623071C47FE6C008F7BAC /* Button-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Highlighted.png"; sourceTree = "<group>"; };
+		7BC623081C47FE6C008F7BAC /* Button-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Normal.png"; sourceTree = "<group>"; };
+		7BC623091C47FE6C008F7BAC /* SliderThumb-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Highlighted.png"; sourceTree = "<group>"; };
+		7BC6230A1C47FE6C008F7BAC /* SliderThumb-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Normal.png"; sourceTree = "<group>"; };
+		7BC6230B1C47FE6C008F7BAC /* SliderTrackLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackLeft.png; sourceTree = "<group>"; };
+		7BC6230C1C47FE6C008F7BAC /* SliderTrackRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackRight.png; sourceTree = "<group>"; };
+		7BC6230D1C47FE6C008F7BAC /* StartOverButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverButton.png; sourceTree = "<group>"; };
+		7BC6230E1C47FE6C008F7BAC /* StartOverIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverIcon.png; sourceTree = "<group>"; };
+		7BC623181C48086B008F7BAC /* CrazyDrag.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CrazyDrag.html; sourceTree = SOURCE_ROOT; };
+		7BF709EA1C4A8721006E8364 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = no.mp3; path = ../no.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +128,12 @@
 		7B8706191C3E942F008F0861 /* CrazyDrag */ = {
 			isa = PBXGroup;
 			children = (
+				7BF709EA1C4A8721006E8364 /* no.mp3 */,
+				7BC623181C48086B008F7BAC /* CrazyDrag.html */,
+				7BC623051C47FE6C008F7BAC /* Images */,
+				7BC622FE1C47EED9008F7BAC /* AboutViewController.h */,
+				7BC622FF1C47EED9008F7BAC /* AboutViewController.m */,
+				7BC623001C47EED9008F7BAC /* AboutViewController.xib */,
 				7B87061D1C3E942F008F0861 /* AppDelegate.h */,
 				7B87061E1C3E942F008F0861 /* AppDelegate.m */,
 				7B8706201C3E942F008F0861 /* ViewController.h */,
@@ -138,6 +171,23 @@
 				7B8706411C3E9430008F0861 /* Info.plist */,
 			);
 			path = CrazyDragUITests;
+			sourceTree = "<group>";
+		};
+		7BC623051C47FE6C008F7BAC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				7BC623061C47FE6C008F7BAC /* Background.png */,
+				7BC623071C47FE6C008F7BAC /* Button-Highlighted.png */,
+				7BC623081C47FE6C008F7BAC /* Button-Normal.png */,
+				7BC623091C47FE6C008F7BAC /* SliderThumb-Highlighted.png */,
+				7BC6230A1C47FE6C008F7BAC /* SliderThumb-Normal.png */,
+				7BC6230B1C47FE6C008F7BAC /* SliderTrackLeft.png */,
+				7BC6230C1C47FE6C008F7BAC /* SliderTrackRight.png */,
+				7BC6230D1C47FE6C008F7BAC /* StartOverButton.png */,
+				7BC6230E1C47FE6C008F7BAC /* StartOverIcon.png */,
+			);
+			name = Images;
+			path = ../Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +257,7 @@
 				TargetAttributes = {
 					7B8706161C3E942F008F0861 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 3X2UYHLY72;
 					};
 					7B87062F1C3E9430008F0861 = {
 						CreatedOnToolsVersion = 7.2;
@@ -243,9 +294,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BF709EB1C4A8721006E8364 /* no.mp3 in Resources */,
 				7B87062A1C3E9430008F0861 /* LaunchScreen.storyboard in Resources */,
 				7B8706271C3E9430008F0861 /* Assets.xcassets in Resources */,
+				7BC623111C47FE6C008F7BAC /* Button-Normal.png in Resources */,
+				7BC623141C47FE6C008F7BAC /* SliderTrackLeft.png in Resources */,
+				7BC623191C48086B008F7BAC /* CrazyDrag.html in Resources */,
+				7BC6230F1C47FE6C008F7BAC /* Background.png in Resources */,
+				7BC623101C47FE6C008F7BAC /* Button-Highlighted.png in Resources */,
+				7BC623021C47EED9008F7BAC /* AboutViewController.xib in Resources */,
+				7BC623151C47FE6C008F7BAC /* SliderTrackRight.png in Resources */,
+				7BC623161C47FE6C008F7BAC /* StartOverButton.png in Resources */,
+				7BC623171C47FE6C008F7BAC /* StartOverIcon.png in Resources */,
 				7B8706251C3E9430008F0861 /* Main.storyboard in Resources */,
+				7BC623131C47FE6C008F7BAC /* SliderThumb-Normal.png in Resources */,
+				7BC623121C47FE6C008F7BAC /* SliderThumb-Highlighted.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +335,7 @@
 			files = (
 				7B8706221C3E942F008F0861 /* ViewController.m in Sources */,
 				7B87061F1C3E942F008F0861 /* AppDelegate.m in Sources */,
+				7BC623011C47EED9008F7BAC /* AboutViewController.m in Sources */,
 				7B87061C1C3E942F008F0861 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,6 +475,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = CrazyDrag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tuwaner.CrazyDrag;
@@ -422,6 +487,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = CrazyDrag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tuwaner.CrazyDrag;
@@ -496,6 +562,7 @@
 				7B8706461C3E9430008F0861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7B8706471C3E9430008F0861 /* Build configuration list for PBXNativeTarget "CrazyDragTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +571,7 @@
 				7B8706491C3E9430008F0861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7B87064A1C3E9430008F0861 /* Build configuration list for PBXNativeTarget "CrazyDragUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +580,7 @@
 				7B87064C1C3E9430008F0861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -8,7 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UIAlertViewDelegate>
+    @property (strong,nonatomic) IBOutlet UISlider *slider;
+
 
 
 @end
